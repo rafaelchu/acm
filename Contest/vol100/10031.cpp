@@ -1,4 +1,4 @@
-// @JUDGE_ID: 5084AA 10031 C++ "<a href=http://go.to/hoshiko_acm>星子的ACM小窩</a>" 
+// @JUDGE_ID: 5084AA 10031 C++
 // Problem: Saskatchewan
 #include <iostream.h>
 
